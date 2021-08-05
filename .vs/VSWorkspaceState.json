@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\building blocks",
+    "\\src\\services",
+    "\\src\\services\\NSE.Catalogo.API",
+    "\\src\\services\\NSE.Cliente.API"
+  ],
+  "SelectedNode": "\\src\\services\\NSE.Pagamento.API",
+  "PreviewInSolutionExplorer": false
+}
